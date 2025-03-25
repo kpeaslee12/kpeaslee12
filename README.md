@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Katie!
 
-<!--
-**kpeaslee12/kpeaslee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a physical therapist and lifelong learner pivoting into the world of **data analytics**.
 
-Here are some ideas to get you started:
+### 💡 My Background:
+- 📍 Based in Baton Rouge, Louisiana, USA
+- 👩‍⚕️ Over a decade of experience in patient care, movement science, and clinical reasoning
+- 🧠 Passionate about making data useful in healthcare and beyond
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Skills:
+- Python (pandas, seaborn, matplotlib, scikit-learn)
+- SQL (in progress!)
+- Jupyter & Google Colab Notebooks
+- Data storytelling & visualization
+- Beginner Git + GitHub user 💻
+
+### 📊 What I'm Working On:
+- Analyzing healthcare datasets to find meaningful insights
+- Building a portfolio of data projects on GitHub
+- Learning Git + version control
+- Preparing for entry-level data analyst roles
+
+### 🎯 Goals:
+- Use data to solve real-world problems
+- Land a remote-friendly data analyst or junior data science position
+- Keep learning every day — and have fun doing it
+
+---
+
+### 🌱 Let’s Connect!
+- 📫 Email: kpeaslee12@gmail.com
